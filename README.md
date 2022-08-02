@@ -1,7 +1,7 @@
 <h1 align="center">Hello,I'm Nedim</h1>
 <h3 align="center">A junior-frontend developer, python developer, entrepreneur</h3>
 
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQGz9WInS3S8jA/profile-displaybackgroundimage-shrink_350_1400/0/1648235009738?e=1665014400&v=beta&t=B8FAa0pO4utLM7x1foHnhdxQhPRzxSb-rp5rbPMNBuc)
+![I'm Nedim](https://media-exp1.licdn.com/dms/image/C4E16AQGz9WInS3S8jA/profile-displaybackgroundimage-shrink_350_1400/0/1648235009738?e=1665014400&v=beta&t=B8FAa0pO4utLM7x1foHnhdxQhPRzxSb-rp5rbPMNBuc)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nedoxthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="nedoxthecoder" /> </p>
 

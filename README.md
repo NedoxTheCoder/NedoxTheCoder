@@ -2,10 +2,10 @@
 <h3 align="center">A junior-frontend developer, python developer, entrepreneur</h3>
 
 ![I'm Nedim](https://media-exp1.licdn.com/dms/image/C4E16AQGz9WInS3S8jA/profile-displaybackgroundimage-shrink_350_1400/0/1648235009738?e=1665014400&v=beta&t=B8FAa0pO4utLM7x1foHnhdxQhPRzxSb-rp5rbPMNBuc)
-<div style="display:flex; justify-content:center">
+
  ![coding](https://user-images.githubusercontent.com/108099926/182368644-63c43691-9f84-4f65-949d-16fe6e37ccc7.gif)
 ![giphy](https://user-images.githubusercontent.com/108099926/182372150-1e5f1999-c42b-4818-b813-7ae101bae953.gif)
-</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nedoxthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="nedoxthecoder" /> </p>
 

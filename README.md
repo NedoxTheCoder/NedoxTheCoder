@@ -1,7 +1,7 @@
 <h1 align="center">Hello,I'm Nedim</h1>
 <h3 align="center">A junior-frontend developer, python developer, entrepreneur</h3>
 
-![I'm Nedim](https://media-exp1.licdn.com/dms/image/C4E16AQGz9WInS3S8jA/profile-displaybackgroundimage-shrink_350_1400/0/1648235009738?e=1665014400&v=beta&t=B8FAa0pO4utLM7x1foHnhdxQhPRzxSb-rp5rbPMNBuc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1000&multiline=true&width=435&lines=Nedim+%C3%87oban%2C+Junior+Frontend+Developer!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 ![giphy](https://user-images.githubusercontent.com/108099926/182372150-1e5f1999-c42b-4818-b813-7ae101bae953.gif)
 
 

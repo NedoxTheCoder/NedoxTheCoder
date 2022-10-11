@@ -1,7 +1,7 @@
-<h1 align="center">Hello,I'm Nedim</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1000&color=F77058&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Nedim+%C3%87oban%2C+Junior+Frontend+Developer!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 <h3 align="center">A junior-frontend developer, python developer, entrepreneur</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1000&multiline=true&width=435&lines=Nedim+%C3%87oban%2C+Junior+Frontend+Developer!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 ![giphy](https://user-images.githubusercontent.com/108099926/182372150-1e5f1999-c42b-4818-b813-7ae101bae953.gif)
 
 

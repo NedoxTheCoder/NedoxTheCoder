@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Nedox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nedox" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nedim-%C3%A7oban-64b980235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nedi̇m çoban" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nedimcoban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nedi̇m çoban" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nedoxtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nedoxtr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Nedox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nedox" height="30" width="40" /></a>
 </p>
